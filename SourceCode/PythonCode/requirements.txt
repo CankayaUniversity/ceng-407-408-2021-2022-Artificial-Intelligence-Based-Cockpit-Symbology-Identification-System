@@ -1,0 +1,10 @@
+easyocr==1.4.2
+matplotlib==3.5.2
+numpy==1.19.5
+object_detection==0.0.3
+opencv_python_headless==4.5.4.60
+Pillow==9.1.1
+protobuf==4.21.1
+six==1.15.0
+tensorflow==2.4.1
+tensorflow_object_detection_api==0.1.1

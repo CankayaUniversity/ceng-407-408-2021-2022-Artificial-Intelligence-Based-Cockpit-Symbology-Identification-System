@@ -1,0 +1,5 @@
+airplaneName:Airbus
+airSpeed:170
+altimeter:1388
+horizontalSituation:32
+verticalSpeed:0
